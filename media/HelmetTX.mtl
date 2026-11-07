@@ -1,0 +1,25 @@
+# Rhino
+newmtl Cimier
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 0.8000 0.8000 0.8000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 52.0200
+map_Kd Cimier_Hoplite_1_COLOR.jpeg
+newmtl Corinthian
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 0.8000 0.8000 0.8000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 52.0200
+map_Kd Corinthian_Helmet_1_SHADER_baseColor.jpeg
+newmtl Crins
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 0.8000 0.8000 0.8000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 52.0200
+map_Kd Crins_2_COLOR.jpeg
