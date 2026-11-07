@@ -114,16 +114,16 @@ function setup3dhop() {
 	presenter.setScene({
 		meshes: {
 			"mesh_1" : { url: "models/column_TEXTURE.nxz" },
-			"mesh_2" : { url: "models/column_TEXTURE.nxz" }
+			"mesh_2" : { url: "models/gargo.nxz" }
 		},
 		modelInstances : {
-			"model_1" : { 
+			"model_1" : {
 				mesh  : "mesh_1",
-				color : [0.8, 0.7, 0.75],
-				"model_2" : { 
-					mesh  : "mesh_2",
-					color : [0.8, 0.7, 0.75]
-				}
+				color : [0.8, 0.7, 0.75]
+			},
+			"model_2" : {
+				mesh  : "mesh_2",
+				color : [0.8, 0.7, 0.75]
 			}
 		},
 		trackball: {
